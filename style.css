@@ -26,6 +26,7 @@ body {
 .content_text {
     color: red;
     font-size: 50px;
+    text-align: center;
 }
 
 .slideshow-container {
@@ -77,7 +78,7 @@ body {
     20% {
       opacity: 1;
     }
-    30% {
+    50% {
       opacity: 0;
     }
 }
