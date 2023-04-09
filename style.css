@@ -10,8 +10,6 @@ body {
     background-color: grey;
     font-family: 'Barlow Condensed', sans-serif;
     font-weight: 200;
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
 }
 
 .center {
